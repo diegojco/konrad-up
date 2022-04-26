@@ -1,0 +1,192 @@
+# Fixed SST controls
+./conv-O3_last.sh a h 0.2 1.0 0.4 1 0
+./conv-O3_last.sh a h 0.2 1.0 0.7 1 0
+./conv-O3_last.sh a h 0.2 1.0 3.6 1 0
+./conv-O3_last.sh a h 0.2 1.0 2.8 1 0
+
+
+# Slab Ocean controls
+./conv-O3_last.sh a h 0.2 1.0 0.4 0 1
+./conv-O3_last.sh a h 0.2 1.0 0.7 0 1
+./conv-O3_last.sh a h 0.2 1.0 3.6 0 1
+./conv-O3_last.sh a h 0.2 1.0 2.8 0 1
+
+# abrupt2xCO2
+# 0.4 RH
+
+./conv-O3_last.sh f h 0.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.025 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.05 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.075 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.1 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.125 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.15 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.175 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.2 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.225 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.25 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.275 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.3 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.325 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.35 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.375 2.0 0.4 0 0
+./conv-O3_last.sh f h 0.4 2.0 0.4 0 0
+
+./conv-O3_last.sh a h 0.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.025 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.05 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.075 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.1 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.125 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.15 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.175 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.2 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.225 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.25 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.275 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.3 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.325 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.35 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.375 2.0 0.4 0 0
+./conv-O3_last.sh a h 0.4 2.0 0.4 0 0
+
+# 0.7 RH
+
+./conv-O3_last.sh f h 0.0 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.025 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.05 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.075 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.1 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.125 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.15 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.175 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.2 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.225 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.25 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.275 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.3 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.325 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.35 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.375 2.0 0.7 0 0
+./conv-O3_last.sh f h 0.4 2.0 0.7 0 0
+
+./conv-O3_last.sh a h 0.0 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.025 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.05 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.075 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.1 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.125 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.15 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.175 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.2 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.225 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.25 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.275 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.3 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.325 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.35 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.375 2.0 0.7 0 0
+./conv-O3_last.sh a h 0.4 2.0 0.7 0 0
+
+# 3.6 RH
+
+./conv-O3_last.sh f h 0.0 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.025 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.05 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.075 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.1 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.125 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.15 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.175 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.2 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.225 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.25 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.275 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.3 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.325 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.35 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.375 2.0 3.6 0 0
+./conv-O3_last.sh f h 0.4 2.0 3.6 0 0
+
+./conv-O3_last.sh a h 0.0 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.025 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.05 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.075 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.1 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.125 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.15 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.175 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.2 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.225 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.25 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.275 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.3 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.325 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.35 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.375 2.0 3.6 0 0
+./conv-O3_last.sh a h 0.4 2.0 3.6 0 0
+
+# 2.8 RH
+
+./conv-O3_last.sh f h 0.0 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.025 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.05 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.075 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.1 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.125 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.15 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.175 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.2 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.225 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.25 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.275 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.3 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.325 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.35 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.375 2.0 2.8 0 0
+./conv-O3_last.sh f h 0.4 2.0 2.8 0 0
+
+./conv-O3_last.sh a h 0.0 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.025 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.05 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.075 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.1 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.125 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.15 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.175 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.2 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.225 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.25 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.275 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.3 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.325 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.35 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.375 2.0 2.8 0 0
+./conv-O3_last.sh a h 0.4 2.0 2.8 0 0
+
+# abrupt2xCO2 with varying upwelling speed
+# 0.4 RH
+
+./conv-O3_last.sh f h 1.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 2.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 3.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 4.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 5.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 6.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 7.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 8.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 9.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 10.0 2.0 0.4 0 0
+./conv-O3_last.sh f h 11.0 2.0 0.4 0 0
+
+./conv-O3_last.sh a h 1.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 2.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 3.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 4.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 5.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 6.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 7.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 8.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 9.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 10.0 2.0 0.4 0 0
+./conv-O3_last.sh a h 11.0 2.0 0.4 0 0
